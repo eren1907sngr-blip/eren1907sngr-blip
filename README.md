@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/founder-banner.svg" alt="Eren Senegör — Founder of ATMACA" width="100%" />
+
 <img src="assets/atmaca-logo.png" alt="ATMACA logo" width="290" />
 
 # Eren Senegör
